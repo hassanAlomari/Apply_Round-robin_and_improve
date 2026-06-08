@@ -18,13 +18,13 @@ In this repository, I implemented the standard Round Robin algorithm and propose
 ## 📄 Detailed Report & Documentation
 The theoretical foundation, mathematical proofs, and a detailed breakdown of the proposed improvement are thoroughly documented in the accompanying project report. 
 
-Please refer to the `docs/os_word_Hassan_Alomari.pdf` file for the complete analytical breakdown and metric comparisons.
+Please refer to the `Round_robin_report.pdf` file for the complete analytical breakdown and metric comparisons.
 
 ## 📂 Repository Structure
 
 ```text
 ├── docs/
-│   └── os_word_Hassan_Alomari.pdf       # Comprehensive project report and algorithmic breakdown
+│   └── Round_robin_report.pdf       # Comprehensive project report and algorithmic breakdown
 ├── notebooks/
-│   └── os_project_Hassan_Alomari.ipynb  # Python simulation for Standard and Enhanced RR
-└── README.md                            # Project documentation
+│   └── RR_code.ipynb                # Python simulation for Standard and Enhanced RR
+└── README.md                        # Project documentation
